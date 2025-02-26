@@ -28,7 +28,7 @@ This is a simple and visually appealing landing page created as part of the **Co
 ## How to Use
 Clone this repository:
    ```bash
-   git clone https://github.com/yashchavan.24/LandingPage-Codsoft.git
+   git clone https://github.com/yashchavan24/LandingPage-Codsoft.git
    ```
 
 
